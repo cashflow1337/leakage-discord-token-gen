@@ -1,4 +1,6 @@
-### Needs modification - strip out css, js, imgs
+His friend tried to scam me with it so im opensourcing the gen
+
+Needs modification - strip out css, js, imgs
 
 npm i colors
 npm i playwright
